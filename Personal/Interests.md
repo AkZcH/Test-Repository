@@ -1,0 +1,15 @@
+- Distributed systems
+- Cloud infrastructure
+- AI infrastructure
+- LLM Inferencing and Serving
+- monitoring and observability
+- infrastructure at scale in real world
+- cost optimization
+- inference latency
+- GPU utilization and performance
+- distribution inference
+- measuring and benchmarking
+- incident analysis and postmortems
+- systems programming
+- Kubernetes
+- schedulers

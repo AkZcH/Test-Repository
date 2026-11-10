@@ -1,0 +1,1 @@
+blog about the fact, that not everything is found in textbook, tutorial or a lecture/advice. somethings are discovered in their own ways, when you experince them, learn them, and understand what it truly means. someone/something telling you is very superficial compared to something you experience on your own

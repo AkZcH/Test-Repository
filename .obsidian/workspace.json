@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "028374e026676c34",
+    "type": "split",
+    "children": [
+      {
+        "id": "92bc0a5087a9ffd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d9dd6017900bdf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Untitled.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "716f3af49c476fb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Target/The Road to 24- Engineering, AI Infrastructure, Cloud, Distributed Systems & Personal Brand.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Road to 24- Engineering, AI Infrastructure, Cloud, Distributed Systems & Personal Brand"
+            }
+          },
+          {
+            "id": "ef8646be2b9816e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career/Interviews/SRE  Platform  AI Infra Interview Study Guide by Claude.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SRE  Platform  AI Infra Interview Study Guide by Claude"
+            }
+          },
+          {
+            "id": "758bcb70353fc47a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Engineering/Resources Links for AI Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resources Links for AI Engineering"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55ff7047aec705d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca386332a4a51e89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d34cf8a2a1474e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8e63046b7c3535bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "28d362a87930a5de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "right": {
+    "id": "03aefc600138157c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2ce42e1e5100ba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f96d9968d449e954",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "College/EPP/Unit 4 - Reliability.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "44447835ebf3f4af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "College/EPP/Unit 4 - Reliability.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8a006a4895a13bbe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1ff751c684830719",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "College/EPP/Unit 4 - Reliability.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "758bcb70353fc47a",
+  "lastOpenFiles": [
+    "AI Engineering/Solutions Architect Roadmap.md",
+    "AI Engineering/Resources.md",
+    "AI Engineering/AI Infrastructure Roadmap.md",
+    "Career/Interviews/SRE  Platform  AI Infra Interview Study Guide by Claude.md",
+    "Career/Interviews/AI Infra.md",
+    "AI Engineering/AI Inference Platform Project.md",
+    "AI Engineering/AI Engineering Topics.md",
+    "AI Engineering/AI Engineering Interviews.md",
+    "AI Engineering/AI Inference/Open vs. Closed Models.md",
+    "Career/SRE JDs.md",
+    "Career/Interviews/SRE.md",
+    "My Target/The Road to 24- Engineering, AI Infrastructure, Cloud, Distributed Systems & Personal Brand.md",
+    "College/Deep Learning/Questions.md",
+    "College/Deep Learning/Transformer Architecture.md",
+    "Archive/Untitled.md",
+    "Archive",
+    "AI Infra for FAANG.md",
+    "AI Engineering/Buzzwords.md",
+    "Reading/Book Notes/AI Engineering by Chip Huyen.md",
+    "Projects",
+    "Reading/Research Papers",
+    "Reading/Research Papers/Research Papers To Reproduce.md",
+    "Reading/Research Papers/Engineering Papers.md",
+    "Reading/Research Papers/Cracked Engineer Reading List by Gemini.md",
+    "Reading/Research Papers/ChatGPT's Recommendation Reading List.md",
+    "Reading/Research Papers/AI Infrastructure Research Papers.md",
+    "Reading/Research Papers/AI Engineering Research Paper Reading List.md",
+    "AI Engineering/Resources Links for AI Engineering.md",
+    "Projects/Projects.md",
+    "Career/Professional Development",
+    "Career/Interviews",
+    "AI Engineering/AI Inference",
+    "System Design",
+    "assets/Pasted image 20261105072659.png",
+    "assets/Pasted image 20261105072712.png",
+    "assets",
+    "Journal",
+    "assets/Pasted image 20261105072649.png",
+    "Systems Programmig"
+  ]
+}

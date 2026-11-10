@@ -1,0 +1,18 @@
+- attention to details, small things, 1 mistake = 1 catastrophe
+- Approach to problem, learn, curious, hungry,
+- Fundamentals
+- How data structures works, how memory is managed during runtime, things under hood to manage concurrency, sync threads, how things work under the hood
+- What happens when you click a button on a website
+- Onion layers of abstraction
+- Network protocol, db architecture,
+- don't tie yourself to a language or set of practices, e.g- kotlin dev, django dev, etc.
+- each language teaches you something new
+- Don't be afraid to learn something unnecessary
+- Reading, writing, speaking with people
+- great at working with people
+- Don't stick to one career
+- Spend time outside of work- body, state, mind, read, walk, etc.
+- deeper and wider in knowledge
+- follow trends, try it 
+- aim higher
+- think out of the leagueff

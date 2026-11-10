@@ -1,0 +1,1 @@
+Blog for the early tech career candidates, suggesting that the easiest way to reach the top is to get good in 1 thing. go deep in 1 rabbit hole, and be disgustingly good at it. be so good that you can't be ignored.

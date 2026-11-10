@@ -1,0 +1,21 @@
+- [ ] Psychocybernetics
+- [ ] Neuroplasticity
+- [ ] Attention residue
+- [ ] Game theory
+- [ ] Value maxing
+- [ ] Default mode network
+- [ ] Dopamine loops
+- [ ] Flow state
+- [ ] Hedonic treadmill
+- [ ] Asymmetric Bets
+- [ ] Naval Ravikant
+- [ ] Permissionless leverage
+- [ ] Escaping the default game
+- [ ] Turning your ideas into influence
+- [ ] Owning your time
+- [ ] pattern recognition
+- [ ] metacognition awareness
+- [ ] deliberate neuroplasticity
+- [ ] strategic detachment
+- [ ] relentless curiosity
+
